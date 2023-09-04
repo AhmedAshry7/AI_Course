@@ -1,0 +1,34 @@
+task1: what is recursion , tabulation, memoization
+Recursion:
+Recursion is defined as a process which calls itself directly or indirectly
+Memoization is a top-down approach where we cache the results of function calls and return
+the cached result if the function is called again with the same inputs. It is used when we
+can divide the problem into subproblems and the subproblems have overlapping subproblems. 
+Memoization is typically implemented using recursion and is well-suited for problems that 
+have a relatively small set of inputs.
+
+Tabulation is a bottom-up approach where we store the results of the subproblems in a table 
+and use these results to solve larger subproblems until we solve the entire problem. It is 
+used when we can define the problem as a sequence of subproblems and the subproblems do not 
+overlap. Tabulation is typically implemented using iteration and is well-suited for problems 
+that have a large set of inputs.
+
+task2:what are the processors of iphone
+
+task3: what is solid principles
+The Single-responsibility principle: "There should never be more than one reason for a class to change."[5] In other words, every class should have only one responsibility.[6]
+The Open–closed principle: "Software entities ... should be open for extension, but closed for modification."[7]
+The Liskov substitution principle: "Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it."[8] See also design by contract.[8]
+The Interface segregation principle: "Clients should not be forced to depend upon interfaces that they do not use."[9][4]
+The Dependency inversion principle: "Depend upon abstractions, [not] concretions."[10][4]
+
+task4: what is cornjobs
+cron is an automation tool, so anything that you run on a regular basis can likely be switched over to a cron 
+job. If you wanted to make regular daily backups, or restart a service once a week, cron can do that.
+
+task5: scrab anyweb and store the data in a csv file
+task6: what is the differnece between iloc and loc
+loc gets rows (and/or columns) with particular labels.
+
+iloc gets rows (and/or columns) at integer locations.
+task7: sign up in kaggle, search for titanic, get any dataset and work on it

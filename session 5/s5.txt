@@ -1,0 +1,3 @@
+Task1: what are the types of distributions:normal,exponential,uniform,etc
+Task2: how to change any distributon to normal distributions
+Task3: hypothesis testing and testing

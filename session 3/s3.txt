@@ -1,0 +1,4 @@
+task1:
+devops
+what,when,how,why,where
+task2: searching for email in the texts
